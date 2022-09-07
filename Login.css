@@ -1,0 +1,13 @@
+.login-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 5rem;
+    width: 100vw;
+}
+label{
+    font-size: medium;
+    font-weight: bold;
+    margin-top: 1rem;
+}
